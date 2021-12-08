@@ -1,6 +1,8 @@
 # HPC backup overview
 
-*Contents*
+<br>
+
+**Contents**
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
