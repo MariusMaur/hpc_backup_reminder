@@ -16,7 +16,7 @@ Some HPC's makes use of work directories that have a set time limit before files
 
 **SAGA uses 42 days autocleanup period, but if the system is at 70% this gets moved down to 21 days**
 
-To keep track of this one can use this simple script to have a list of objects that are on work directory. 
+To keep track of this one can use this simple script to have a list of objects that are on work directory. The scripts adds the name of the object and a timestamp **20 days in advance for when the object should be backed up.**
 
 
 <br>
